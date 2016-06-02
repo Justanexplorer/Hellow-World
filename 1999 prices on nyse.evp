@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?><!-- :1:99 -->
+<xvf version="1.5" application="EstateVal/8.0.3" company="Estate Valuations &amp; Pricing Systems, Inc." address="1531 Chapala St., Suite 1, Santa Barbara, CA 93101" phone="(818) 313-6300" href="http://www.evpsys.com/" mail="info@evpsys.com">
+ <portfolio date="19991203">
+  <title>Estate Valuation</title>
+  <lot number="1" symbol="166764100">
+   <inventory shares="100" />
+  </lot>
+  <lot number="2" symbol="30231G102">
+   <inventory shares="100" />
+  </lot>
+  <lot number="3" symbol="92343V104">
+   <inventory shares="100" />
+  </lot>
+  <security symbol="16676410" type="Stock" cusip="16676410" name="CHEVRON CORP NEW" source="New York Stock Exchange">
+   <description>COM</description>
+   <flag type="yes" cusip="yes" name="yes" description="yes" source="yes" />
+   <data date="19991203" currency="USD" country="US">
+    <price currency="USD">
+     <last date="19991203" type="H/L" high="92.75">90.0625</last>
+    </price>
+    <dividend ex="19991117" record="19991119" pay="19991210" type="0">0.65</dividend>
+    <dividend number="1" ex="19990818" record="19990820" pay="19990910" type="0">0.61</dividend>
+    <flag country="yes" currency="yes" price="yes" dividend="yes" />
+   </data>
+  </security>
+  <security symbol="30231G10" type="Stock" cusip="30231G10" name="EXXON MOBIL CORP" source="New York Stock Exchange">
+   <description>COM</description>
+   <flag type="yes" cusip="yes" name="yes" description="yes" source="yes" />
+   <data date="19991203" currency="USD" country="US">
+    <price currency="USD">
+     <last date="19991203" type="H/L" high="83.125">81.625</last>
+    </price>
+    <dividend ex="19991109" record="19991112" pay="19991210" type="0">0.44</dividend>
+    <dividend number="1" ex="19990811" record="19990813" pay="19990910" type="0">0.41</dividend>
+    <flag country="yes" currency="yes" price="yes" dividend="yes" />
+   </data>
+  </security>
+  <security symbol="92343V10" type="Stock" cusip="92343V10" name="VERIZON COMMUNICATIONS INC" source="New York Stock Exchange">
+   <description>COM</description>
+   <flag type="yes" cusip="yes" name="yes" description="yes" source="yes" />
+   <data date="19991203" currency="USD" country="US">
+    <price currency="USD">
+     <last date="19991203" type="H/L" high="66.3125">64.6875</last>
+    </price>
+    <dividend ex="19991006" record="19991008" pay="19991101" type="0">0.385</dividend>
+    <flag country="yes" currency="yes" price="yes" dividend="yes" />
+   </data>
+  </security>
+  <history type="Date of Death Evaluation" date1="19991203" date="20150713" />
+ </portfolio>
+</xvf>
